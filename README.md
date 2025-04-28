@@ -5,6 +5,8 @@
 - 📫 How to reach me: (https://www.linkedin.com/in/archie-sahu-1b3b47280/) | Email: archiesahu19@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love solving puzzles and can spend hours binge-reading thriller novels!
+- 💻 Building solutions at the intersection of code, creativity, and business.
+- 📚 Always learning, always innovating.
 
 <!---
 Archie-Sahu/Archie-Sahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
